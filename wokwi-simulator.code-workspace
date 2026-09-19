@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "name": "Wokwi Simulator",
+      "path": "wokwi"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/build": false
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "Wokwi.wokwi-vscode",
+      "vscode-arduino.vscode-arduino-community"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Spotify Album Display",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "workspaceFolder": "/workspaces/spotify-album-display",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Wokwi.wokwi-vscode"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+  "postCreateCommand": "bash scripts/build_wokwi.sh",
+  "remoteUser": "vscode"
+}

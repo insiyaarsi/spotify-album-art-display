@@ -1,0 +1,3 @@
+TFT_eSPI
+ArduinoJson
+TJpg_Decoder
