@@ -231,8 +231,3 @@ Wokwi's free Public Gateway can inspect outbound HTTPS traffic, and the firmware
 calls `setInsecure()` (no certificate validation) for the simulator. Treat simulator
 credentials as **burnable** and rotate your Spotify Client Secret after the simulator
 phase. See [docs/credentials.md](docs/credentials.md).
-
-## Reference
-
-- Build brief: [spotify-album-display-wokwi-brief.md](spotify-album-display-wokwi-brief.md)
-- Required Spotify scopes: `user-read-currently-playing`, `user-read-playback-state`
