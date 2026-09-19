@@ -8,6 +8,8 @@ everything is proven in [Wokwi](https://wokwi.com) before buying hardware.
 ![Platform](https://img.shields.io/badge/platform-ESP32-informational)
 ![Display](https://img.shields.io/badge/display-ILI9341%20240x320-lightgrey)
 
+<img width="1326" height="1180" alt="Screenshot 2026-09-19 151455" src="https://github.com/user-attachments/assets/5ba657f5-c701-44a9-9714-181f5c085baa" />
+
 ## What it does
 
 - Connects to Wi-Fi (`Wokwi-GUEST` in the simulator)
